@@ -1,0 +1,114 @@
+.first{
+	height: 600px;
+}
+.second{
+	height:auto;
+	background-color: lightgrey;
+}
+.input-group{
+	width: 60%;
+}
+.navbar-brand{
+	margin-right: 100px;
+}
+.h2-col-8{
+	font-size: 14px;
+	font-weight: bold;
+	color: black;
+
+}
+a:hover{
+	text-decoration: none;
+}
+.small-col-8{
+	font-weight: bold; 
+}
+.card-body{
+	text-align: center;
+}
+.message{
+	background-color:  #e6ffe6;
+	
+}
+.mesh{
+	color: blue;
+}
+.empty{
+	height: 250px;
+}
+.butt{
+	border-style: none;
+	height: 30px;
+	padding: 0px 10px;
+}
+.boton{
+	height: 30px;
+	width: auto;
+}
+.next{
+	height: auto;
+	padding-left: 20px;
+	background: linear-gradient(to right,  #4700b3 , #cc33ff);
+	opacity: 0.75;
+
+}
+.invite{
+	font-size: 11px;
+	padding: 4px 15px;
+	font-weight: bold;
+	background-color: transparent;
+	color: white;
+	border:2px solid grey;
+	 margin-left: 0px;
+	 width: auto;
+}
+.add{
+	font-size: 16px;
+	font-weight: bold;
+	background-color: white;
+	color: black;
+	border:1px solid white;
+	margin-right: -20px;
+
+}
+.high{
+	height: 50px;
+	padding-top: 20px;
+}
+small{
+	font-size:12px ;
+	font-weight: bold;
+}
+.navbar-brand{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+.pend{
+	font-size: 10px;
+	color: red;
+}
+.going{
+	font-size: 10px;
+	color: blue;
+}
+
+
+
+
+
+
+@media (max-width: 1024px) {
+	.card{
+		width:100%;
+}
+	.h1-header{
+	font-family: segoe UI , Tahoma;
+	font-size: 50px;
+	color: #ffffff;
+	padding-top: 30px;
+}
+.btn{
+	width: 100%;
+}
+}

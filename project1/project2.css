@@ -1,0 +1,93 @@
+#header{
+	background:linear-gradient(rgba(0,0,34,0.55), rgba(0,0,34,0.55)), url('images/image13.jpeg') fixed no-repeat;
+	background-size:cover;
+	height: 800px; 
+}
+.nav-link{
+	font-family:'Courier New', Courier, monospace;
+	font-size: 20px;
+	font-weight: 300;
+	text-transform: uppercase;
+	margin-left: 30px;
+}
+.p-column1{
+	font-size: 20px;
+	color: black;
+}
+.h1-header{
+	font-family: segoe UI , Tahoma;
+	font-size: 50px;
+	color: #ffffff;
+	font-weight: 500px;
+	padding-top: 100px;
+}
+.fab{
+	font-size: 20px;
+	font-weight: bold;
+	margin-right: 15px;
+}
+.font{
+	margin-left: 300px;
+}
+.btn-more{
+	background-color: black !important;
+	border:1px solid black;
+}
+#about{
+	background-color: grey;
+}
+.h1-about{
+	font-size: 15px;
+	color: black;
+}
+#footer{
+	background-color: #000000;
+	padding: 10px 0px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1024px) {
+	#header{
+	background:url('images/image13.jpeg') fixed no-repeat;
+	background-size:contain;
+	height: 500px; 
+}
+	.h1-header{
+	font-family: segoe UI , Tahoma;
+	font-size: 50px;
+	color: #ffffff;
+	padding-top: 30px;
+}
+.btn{
+	width: 100%;
+}
+}
